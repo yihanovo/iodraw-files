@@ -209,11 +209,16 @@
         </mxCell>
         <mxCell id="hhtftJFJ_AbCss9cR37H-59" value="基础数据维护、系统管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="hhtftJFJ_AbCss9cR37H-43">
           <mxGeometry x="0.241" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="24" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hhtftJFJ_AbCss9cR37H-44" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="hhtftJFJ_AbCss9cR37H-31" target="hhtftJFJ_AbCss9cR37H-27">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hhtftJFJ_AbCss9cR37H-60" value="用户信息、请假统计报表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="hhtftJFJ_AbCss9cR37H-44">
+          <mxGeometry x="-0.0365" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hhtftJFJ_AbCss9cR37H-31" value="管理员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1000" y="570" width="120" height="60" as="geometry" />

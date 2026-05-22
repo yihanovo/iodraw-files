@@ -16,8 +16,13 @@
         <mxCell id="hhtftJFJ_AbCss9cR37H-4" value="教师/主管" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="90" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="hhtftJFJ_AbCss9cR37H-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.322;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hhtftJFJ_AbCss9cR37H-2" target="hhtftJFJ_AbCss9cR37H-1">
+        <mxCell id="hhtftJFJ_AbCss9cR37H-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.322;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hhtftJFJ_AbCss9cR37H-2" target="hhtftJFJ_AbCss9cR37H-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hhtftJFJ_AbCss9cR37H-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hhtftJFJ_AbCss9cR37H-5">
+          <mxGeometry x="-0.3709" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

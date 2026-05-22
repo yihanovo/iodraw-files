@@ -43,7 +43,7 @@
         <mxCell id="hhtftJFJ_AbCss9cR37H-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.989;entryY=0.863;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hhtftJFJ_AbCss9cR37H-1" target="hhtftJFJ_AbCss9cR37H-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hhtftJFJ_AbCss9cR37H-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hhtftJFJ_AbCss9cR37H-11">
+        <mxCell id="hhtftJFJ_AbCss9cR37H-12" value="个人信息修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hhtftJFJ_AbCss9cR37H-11">
           <mxGeometry x="0.2192" y="2" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>

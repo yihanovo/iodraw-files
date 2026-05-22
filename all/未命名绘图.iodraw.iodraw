@@ -88,7 +88,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hhtftJFJ_AbCss9cR37H-33" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1" source="hhtftJFJ_AbCss9cR37H-21" target="hhtftJFJ_AbCss9cR37H-24">
+        <mxCell id="hhtftJFJ_AbCss9cR37H-33" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1" source="hhtftJFJ_AbCss9cR37H-21" target="hhtftJFJ_AbCss9cR37H-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hhtftJFJ_AbCss9cR37H-51" value="查询请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="hhtftJFJ_AbCss9cR37H-33">
@@ -121,6 +121,11 @@
         </mxCell>
         <mxCell id="hhtftJFJ_AbCss9cR37H-45" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="hhtftJFJ_AbCss9cR37H-24" target="hhtftJFJ_AbCss9cR37H-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hhtftJFJ_AbCss9cR37H-52" value="个人信息修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="hhtftJFJ_AbCss9cR37H-45">
+          <mxGeometry x="0.0199" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hhtftJFJ_AbCss9cR37H-46" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="hhtftJFJ_AbCss9cR37H-24" target="hhtftJFJ_AbCss9cR37H-23">
           <mxGeometry relative="1" as="geometry" />

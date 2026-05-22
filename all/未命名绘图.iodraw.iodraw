@@ -107,10 +107,10 @@
         <mxCell id="hhtftJFJ_AbCss9cR37H-29" value="审批记录表" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="680" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hhtftJFJ_AbCss9cR37H-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="hhtftJFJ_AbCss9cR37H-30" value="教师/主管" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="990" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hhtftJFJ_AbCss9cR37H-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="hhtftJFJ_AbCss9cR37H-31" value="管理员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="990" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

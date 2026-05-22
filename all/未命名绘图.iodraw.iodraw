@@ -4,6 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hhtftJFJ_AbCss9cR37H-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="hhtftJFJ_AbCss9cR37H-1" target="hhtftJFJ_AbCss9cR37H-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hhtftJFJ_AbCss9cR37H-14" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hhtftJFJ_AbCss9cR37H-13">
+          <mxGeometry x="-0.0667" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hhtftJFJ_AbCss9cR37H-1" value="请假管理系统" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="90" width="180" height="180" as="geometry" />
         </mxCell>
@@ -45,7 +53,7 @@
         </mxCell>
         <mxCell id="hhtftJFJ_AbCss9cR37H-12" value="个人信息修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hhtftJFJ_AbCss9cR37H-11">
           <mxGeometry x="0.2192" y="2" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
+            <mxPoint x="13" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

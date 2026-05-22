@@ -80,7 +80,7 @@
             <mxPoint y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hhtftJFJ_AbCss9cR37H-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="hhtftJFJ_AbCss9cR37H-21" value="学生/员工" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-50" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hhtftJFJ_AbCss9cR37H-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
@@ -99,13 +99,13 @@
           <mxGeometry x="430" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hhtftJFJ_AbCss9cR37H-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="430" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hhtftJFJ_AbCss9cR37H-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="680" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hhtftJFJ_AbCss9cR37H-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="675" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hhtftJFJ_AbCss9cR37H-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="990" y="310" width="120" height="60" as="geometry" />

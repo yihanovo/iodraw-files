@@ -67,6 +67,11 @@
         <mxCell id="hhtftJFJ_AbCss9cR37H-17" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.994;entryY=0.681;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1" source="hhtftJFJ_AbCss9cR37H-3" target="hhtftJFJ_AbCss9cR37H-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hhtftJFJ_AbCss9cR37H-18" value="用户信息、请假统计报表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="hhtftJFJ_AbCss9cR37H-17">
+          <mxGeometry x="0.2002" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

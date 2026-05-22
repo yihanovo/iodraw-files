@@ -59,7 +59,7 @@
         <mxCell id="hhtftJFJ_AbCss9cR37H-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.98;entryY=0.378;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hhtftJFJ_AbCss9cR37H-4" target="hhtftJFJ_AbCss9cR37H-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hhtftJFJ_AbCss9cR37H-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="hhtftJFJ_AbCss9cR37H-15">
+        <mxCell id="hhtftJFJ_AbCss9cR37H-16" value="审批结果/意见" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="hhtftJFJ_AbCss9cR37H-15">
           <mxGeometry x="0.1362" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

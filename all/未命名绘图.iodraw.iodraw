@@ -7,13 +7,13 @@
         <mxCell id="hhtftJFJ_AbCss9cR37H-1" value="请假管理系统" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="90" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="hhtftJFJ_AbCss9cR37H-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
+        <mxCell id="hhtftJFJ_AbCss9cR37H-2" value="学生/员工" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="117.5" width="125" height="125" as="geometry" />
         </mxCell>
         <mxCell id="hhtftJFJ_AbCss9cR37H-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="190" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="hhtftJFJ_AbCss9cR37H-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
+        <mxCell id="hhtftJFJ_AbCss9cR37H-4" value="教师/主管" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="90" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
